@@ -114,6 +114,22 @@ export default {
           apply: 'Застосувати'
         }
       }
+    },
+    Image: {
+      buttons: {
+        tooltip: 'Картинка'
+      },
+      window: {
+        title: 'Додати картинку',
+        or: 'АБО',
+        form: {
+          sourceLink: 'Посилання на картинку'
+        },
+        buttons: {
+          close: 'Закрити',
+          apply: 'Застосувати'
+        }
+      }
     }
   }
 }
